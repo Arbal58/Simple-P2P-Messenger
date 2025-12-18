@@ -2,7 +2,7 @@ import socket
 import time
 import threading
 
-serverIp = "104.248.18.8"
+serverIp = "174.138.0.243"
 serverPort = 3478
 server_addr = (serverIp, serverPort)
 
